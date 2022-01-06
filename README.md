@@ -18,7 +18,7 @@
 
 [Net Salary.cpp](netsalary.c)
 
-[Simple and Compound.c](simple&compoundinterest .c)
+[Simple and Compound.c](simpleandcompoundinterest.c)
 
 [Reversing Number](reverseofthegivennumber.cpp)
 
