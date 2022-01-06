@@ -16,9 +16,9 @@
 
 [Half Pyramid](halfpyramid.c)
 
-[Net Salary.cpp](net salary of an employe cprgramme file)
+[Net Salary.cpp](netsalary.c)
 
-[Simple and Compound.c](simple&compound interest.c)
+[Simple and Compound.c](simple&compoundinterest .c)
 
 [Reversing Number](reverseofthegivennumber.cpp)
 
