@@ -14,7 +14,7 @@
 
 [factorial.c](factorial.c)
 
-[Half Pyramid](
+[Half Pyramid](halfpyramid.c)
 
 [Net Salary.cpp](net salary of an employe cprgramme file)
 
