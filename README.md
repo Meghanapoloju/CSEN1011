@@ -24,3 +24,4 @@
 
 [Arm Strong](armstrongnumberornot.cpp)
 
+[Inverted triangle with stars](invertedtrianglewithstars.c)
